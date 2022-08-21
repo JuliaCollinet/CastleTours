@@ -1,0 +1,144 @@
+[03-Aug-2022 19:54:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php on line 66
+[03-Aug-2022 19:54:11 UTC] PHP Stack trace:
+[03-Aug-2022 19:54:11 UTC] PHP   1. {main}() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:0
+[03-Aug-2022 19:54:11 UTC] PHP   2. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:175
+[03-Aug-2022 19:54:11 UTC] PHP   3. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:11 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:11 UTC] PHP   5. wpbs_register_do_actions() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:11 UTC] PHP   6. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/functions.php:41
+[03-Aug-2022 19:54:11 UTC] PHP   7. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:11 UTC] PHP   8. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:11 UTC] PHP   9. wpbs_action_add_calendar() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php on line 66
+[03-Aug-2022 19:54:11 UTC] PHP Stack trace:
+[03-Aug-2022 19:54:11 UTC] PHP   1. {main}() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:0
+[03-Aug-2022 19:54:11 UTC] PHP   2. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:175
+[03-Aug-2022 19:54:11 UTC] PHP   3. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:11 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:11 UTC] PHP   5. wpbs_register_do_actions() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:11 UTC] PHP   6. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/functions.php:41
+[03-Aug-2022 19:54:11 UTC] PHP   7. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:11 UTC] PHP   8. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:11 UTC] PHP   9. wpbs_action_add_calendar() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php:66) in /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/pluggable.php on line 1421
+[03-Aug-2022 19:54:11 UTC] PHP Stack trace:
+[03-Aug-2022 19:54:11 UTC] PHP   1. {main}() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:0
+[03-Aug-2022 19:54:11 UTC] PHP   2. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:175
+[03-Aug-2022 19:54:11 UTC] PHP   3. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:11 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:11 UTC] PHP   5. wpbs_register_do_actions() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:11 UTC] PHP   6. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/functions.php:41
+[03-Aug-2022 19:54:11 UTC] PHP   7. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:11 UTC] PHP   8. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:11 UTC] PHP   9. wpbs_action_add_calendar() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:11 UTC] PHP  10. wp_redirect() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php:76
+[03-Aug-2022 19:54:11 UTC] PHP  11. header() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/pluggable.php:1421
+[03-Aug-2022 19:54:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php:66) in /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/pluggable.php on line 1424
+[03-Aug-2022 19:54:11 UTC] PHP Stack trace:
+[03-Aug-2022 19:54:11 UTC] PHP   1. {main}() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:0
+[03-Aug-2022 19:54:11 UTC] PHP   2. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:175
+[03-Aug-2022 19:54:11 UTC] PHP   3. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:11 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:11 UTC] PHP   5. wpbs_register_do_actions() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:11 UTC] PHP   6. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/functions.php:41
+[03-Aug-2022 19:54:11 UTC] PHP   7. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:11 UTC] PHP   8. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:11 UTC] PHP   9. wpbs_action_add_calendar() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:11 UTC] PHP  10. wp_redirect() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php:76
+[03-Aug-2022 19:54:11 UTC] PHP  11. header() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/pluggable.php:1424
+[03-Aug-2022 19:54:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php on line 66
+[03-Aug-2022 19:54:39 UTC] PHP Stack trace:
+[03-Aug-2022 19:54:39 UTC] PHP   1. {main}() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:0
+[03-Aug-2022 19:54:39 UTC] PHP   2. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:175
+[03-Aug-2022 19:54:39 UTC] PHP   3. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:39 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:39 UTC] PHP   5. wpbs_register_do_actions() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:39 UTC] PHP   6. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/functions.php:41
+[03-Aug-2022 19:54:39 UTC] PHP   7. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:39 UTC] PHP   8. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:39 UTC] PHP   9. wpbs_action_add_calendar() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php on line 66
+[03-Aug-2022 19:54:39 UTC] PHP Stack trace:
+[03-Aug-2022 19:54:39 UTC] PHP   1. {main}() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:0
+[03-Aug-2022 19:54:39 UTC] PHP   2. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:175
+[03-Aug-2022 19:54:39 UTC] PHP   3. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:39 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:39 UTC] PHP   5. wpbs_register_do_actions() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:39 UTC] PHP   6. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/functions.php:41
+[03-Aug-2022 19:54:39 UTC] PHP   7. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:39 UTC] PHP   8. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:39 UTC] PHP   9. wpbs_action_add_calendar() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php:66) in /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/pluggable.php on line 1421
+[03-Aug-2022 19:54:39 UTC] PHP Stack trace:
+[03-Aug-2022 19:54:39 UTC] PHP   1. {main}() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:0
+[03-Aug-2022 19:54:39 UTC] PHP   2. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:175
+[03-Aug-2022 19:54:39 UTC] PHP   3. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:39 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:39 UTC] PHP   5. wpbs_register_do_actions() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:39 UTC] PHP   6. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/functions.php:41
+[03-Aug-2022 19:54:39 UTC] PHP   7. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:39 UTC] PHP   8. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:39 UTC] PHP   9. wpbs_action_add_calendar() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:39 UTC] PHP  10. wp_redirect() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php:76
+[03-Aug-2022 19:54:39 UTC] PHP  11. header() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/pluggable.php:1421
+[03-Aug-2022 19:54:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php:66) in /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/pluggable.php on line 1424
+[03-Aug-2022 19:54:39 UTC] PHP Stack trace:
+[03-Aug-2022 19:54:39 UTC] PHP   1. {main}() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:0
+[03-Aug-2022 19:54:39 UTC] PHP   2. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:175
+[03-Aug-2022 19:54:39 UTC] PHP   3. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:39 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:39 UTC] PHP   5. wpbs_register_do_actions() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:39 UTC] PHP   6. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/functions.php:41
+[03-Aug-2022 19:54:39 UTC] PHP   7. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:39 UTC] PHP   8. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:39 UTC] PHP   9. wpbs_action_add_calendar() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:39 UTC] PHP  10. wp_redirect() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php:76
+[03-Aug-2022 19:54:39 UTC] PHP  11. header() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/pluggable.php:1424
+[03-Aug-2022 19:54:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php on line 66
+[03-Aug-2022 19:54:58 UTC] PHP Stack trace:
+[03-Aug-2022 19:54:58 UTC] PHP   1. {main}() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:0
+[03-Aug-2022 19:54:58 UTC] PHP   2. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:175
+[03-Aug-2022 19:54:58 UTC] PHP   3. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:58 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:58 UTC] PHP   5. wpbs_register_do_actions() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:58 UTC] PHP   6. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/functions.php:41
+[03-Aug-2022 19:54:58 UTC] PHP   7. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:58 UTC] PHP   8. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:58 UTC] PHP   9. wpbs_action_add_calendar() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php on line 66
+[03-Aug-2022 19:54:58 UTC] PHP Stack trace:
+[03-Aug-2022 19:54:58 UTC] PHP   1. {main}() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:0
+[03-Aug-2022 19:54:58 UTC] PHP   2. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:175
+[03-Aug-2022 19:54:58 UTC] PHP   3. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:58 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:58 UTC] PHP   5. wpbs_register_do_actions() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:58 UTC] PHP   6. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/functions.php:41
+[03-Aug-2022 19:54:58 UTC] PHP   7. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:58 UTC] PHP   8. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:58 UTC] PHP   9. wpbs_action_add_calendar() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php:66) in /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/pluggable.php on line 1421
+[03-Aug-2022 19:54:58 UTC] PHP Stack trace:
+[03-Aug-2022 19:54:58 UTC] PHP   1. {main}() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:0
+[03-Aug-2022 19:54:58 UTC] PHP   2. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:175
+[03-Aug-2022 19:54:58 UTC] PHP   3. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:58 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:58 UTC] PHP   5. wpbs_register_do_actions() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:58 UTC] PHP   6. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/functions.php:41
+[03-Aug-2022 19:54:58 UTC] PHP   7. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:58 UTC] PHP   8. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:58 UTC] PHP   9. wpbs_action_add_calendar() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:58 UTC] PHP  10. wp_redirect() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php:76
+[03-Aug-2022 19:54:58 UTC] PHP  11. header() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/pluggable.php:1421
+[03-Aug-2022 19:54:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php:66) in /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/pluggable.php on line 1424
+[03-Aug-2022 19:54:58 UTC] PHP Stack trace:
+[03-Aug-2022 19:54:58 UTC] PHP   1. {main}() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:0
+[03-Aug-2022 19:54:58 UTC] PHP   2. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-admin/admin.php:175
+[03-Aug-2022 19:54:58 UTC] PHP   3. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:58 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:58 UTC] PHP   5. wpbs_register_do_actions() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:58 UTC] PHP   6. do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/functions.php:41
+[03-Aug-2022 19:54:58 UTC] PHP   7. WP_Hook->do_action() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/plugin.php:476
+[03-Aug-2022 19:54:58 UTC] PHP   8. WP_Hook->apply_filters() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:331
+[03-Aug-2022 19:54:58 UTC] PHP   9. wpbs_action_add_calendar() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/class-wp-hook.php:307
+[03-Aug-2022 19:54:58 UTC] PHP  10. wp_redirect() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-content/plugins/wp-booking-system/includes/base/admin/calendar/functions-actions-calendar.php:76
+[03-Aug-2022 19:54:58 UTC] PHP  11. header() /Users/juliaacollinet/Local Sites/castletours/app/public/wp-includes/pluggable.php:1424
